@@ -23,6 +23,8 @@ else
             printf("tobbmint60perc. %d",kul);
 
 
+printf("recska")
+
 
 return 0;
 }
